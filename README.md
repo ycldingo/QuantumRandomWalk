@@ -15,8 +15,8 @@ Unlike its classical analogue, the probability distribution of lackadaisical qua
 This property may lead to advantages in quantum algorithm such as Grover's search.
 
 
-### Introduction
-## Non-stochastic one-dimensional lackadaisical quantum random walk
+## Introduction
+### Non-stochastic one-dimensional lackadaisical quantum random walk
 Here we combine the abover two cases: making the coins of the lackadaisical quantum random walk non-stochastic that are dependent on some characteristics of the process.
 
 
