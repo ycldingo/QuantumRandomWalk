@@ -7,7 +7,7 @@ These two guys play an important role on the walks' behaviors.
 
 ### Non-stochastic quantum random walks
 The process of can be non-stochastic with introducing the parameterized coin such as the rotation matrices. 
-The coin $\mathcal{C}$ are characterized by some parameters and are vary with the step of the walk or the position of the quantum walker, for example.
+$\mathcal{C}$ are characterized by some parameters and are vary with the step of the walk or the position of the quantum walker, for example.
 The non-stochatic walks lead to diverse probability distributions to the walker's location.
 
 
