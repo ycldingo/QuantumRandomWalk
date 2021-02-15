@@ -41,11 +41,11 @@ For further content, please visit:
 
 ### Contributions
 - Yun-Chih Liao
- - Graduate Institute of Communication Engineering, National Taiwan University, Taipei, Taiwan 
+  - Graduate Institute of Communication Engineering, National Taiwan University, Taipei, Taiwan 
 - Hsi-Sheng Goan
- - Department of Physics and Center for Theoretical Physics, National Taiwan University, Taipei, Taiwan 
- - Center for Quantum Science and Engineering, National Taiwan University, Taipei, Taiwan 
+  - Department of Physics and Center for Theoretical Physics, National Taiwan University, Taipei, Taiwan 
+  - Center for Quantum Science and Engineering, National Taiwan University, Taipei, Taiwan 
 - Hao-Chung Cheng
- - Department of Electrical Engineering, National Taiwan University, Taipei, Taiwan
- - Graduate Institute of Communication Engineering, National Taiwan University, Taipei, Taiwan 
+  - Department of Electrical Engineering, National Taiwan University, Taipei, Taiwan
+  - Graduate Institute of Communication Engineering, National Taiwan University, Taipei, Taiwan 
 
