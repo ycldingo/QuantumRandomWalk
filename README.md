@@ -16,6 +16,7 @@ Unlike the standard quantum random walk, the lackadaisical quantum random walk h
  - moving forward
  - going backward
  - ***staying at its current position***
+ 
 The weighting of the options can be adjust by tunning the number of (coin) components, i.e., the dimension of the coin subspace, with respect to the required choices.
 To construct the part of stays, a self-loop parameterized by the ***laziness coefficient*** is introduced to the shift operator, which corresponds to the staying opetion.
 Unlike its classical analogue, the probability distribution of lackadaisical quantum walk spreads faster than the standard quantum random walk, and will not be trapped around its initial start location.
