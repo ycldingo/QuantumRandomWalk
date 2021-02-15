@@ -17,6 +17,22 @@ This property may lead to advantages in quantum algorithm such as Grover's searc
 
 ## Introduction
 ### Non-stochastic one-dimensional lackadaisical quantum random walk
-Here we combine the above two cases: making the coins of the lackadaisical quantum random walk non-stochastic, that is, depend on some characteristics of the process. We call these coins ***path-dependent coins (DCs) $\mathcal{C}_{\text{DCs}}$*** (comparing to the commom choice: Grover diffusion operator $\mathcal{C}_{\text{G}}$).
+Here we combine the above two cases: making the coins of the lackadaisical quantum random walk non-stochastic, that is, depend on some characteristics of the process. We call these coins ***path-dependent coins (DCs)*** $\mathcal{C}_{\text{DCs}}$ (comparing to the commom choice: Grover diffusion operator $\mathcal{C}_{\text{G}}$).
 
+
+### Path-dependent coins
+In this work, we provide a model requiring a smaller Hilbert subspace for the coin register but spreads faster and more coherent than the standard lackadaisical quantum walks with Grover coin.
+By adjusting the parameter in the coin operator, we can achieve to diverge probability distributions easily.
+
+
+### Walks' patterns
+We study several quantities that help us describe the pattern of the walks for DCs cases.
+The results suggest different usage of DCs, which may be benefical to different technology applications.
+
+
+### Detail of our work
+The work is accepted by [2021 Annual Meeting of the Physical Society of Taiwan](https://tps2021.conf.tw/site/page.aspx?pid=901&sid=1352&lang=en).
+For further content, please see:
+- [abstract](https://github.com/ycldingo/QuantumRandomWalk/blob/main/abstract_Non-stochastic%20one-dimensional%20lackadaisical%20quantum%20random%20walks.pdf)
+- [detail](https://github.com/ycldingo/QuantumRandomWalk/blob/main/TPS2021_v2.pdf)
 
