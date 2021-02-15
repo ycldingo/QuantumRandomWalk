@@ -1,6 +1,6 @@
 # Quantum Random Walk
 
-## Warm-Up
+## Background knowledge
 ### Non-stochastic quantum random walks
 The process of can be non-stochastic with introducing the parameterized coin such as the rotation matrices. 
 The coins are characterized by the rotation angles and are vary with the step of the walk or the position of the quantum walker, for example.
@@ -28,12 +28,12 @@ By adjusting the parameter in the coin operator, we can achieve to diverge proba
 
 ### Walks' patterns
 We study several quantities that help us describe the pattern of the walks for DCs cases.
-The results suggest different usage of DCs, which may be benefical to different technology applications.
+The results suggest different usage of DCs, which may be benefical to different technology applications such as creating coherent resources or speedup the quantum database searching algorithms.
 
 
-### Detail of our work
+## Detail of our work
 The work is accepted by [2021 Annual Meeting of the Physical Society of Taiwan](https://tps2021.conf.tw/site/page.aspx?pid=901&sid=1352&lang=en).
-For further content, please see:
+For further content, please visit:
 - [abstract](https://github.com/ycldingo/QuantumRandomWalk/blob/main/abstract_Non-stochastic%20one-dimensional%20lackadaisical%20quantum%20random%20walks.pdf)
-- [detail](https://github.com/ycldingo/QuantumRandomWalk/blob/main/TPS2021_v2.pdf)
+- [more about the work](https://github.com/ycldingo/QuantumRandomWalk/blob/main/TPS2021_v2.pdf)
 
