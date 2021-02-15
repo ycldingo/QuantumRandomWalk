@@ -17,7 +17,8 @@ This property may lead to advantages in quantum algorithm such as Grover's searc
 
 ## Introduction
 ### Non-stochastic one-dimensional lackadaisical quantum random walk
-Here we combine the above two cases: making the coins of the lackadaisical quantum random walk non-stochastic, that is, depend on some characteristics of the process. We call these coins ***path-dependent coins (DCs)*** $\mathcal{C}_{\text{DCs}}$ (comparing to the commom choice: Grover diffusion operator $\mathcal{C}_{\text{G}}$).
+Here we combine the above two cases: making the coins of the lackadaisical quantum random walk non-stochastic, that is, depend on some characteristics of the process. We call these coins ***path-dependent coins (DCs) $\mathcal{C}_{\text{DCs}}$***
+(comparing to the commom choice: Grover diffusion operator $\mathcal{C}_{\text{G}}$).
 
 
 ### Path-dependent coins
