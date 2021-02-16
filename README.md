@@ -1,14 +1,25 @@
 # Quantum Random Walk
 
 ## Background knowledge
+Quantum random walk is the classical analogue of classical random walk, which in some problems, provides exponential speedup over classical algorithms.
+Its randomness arises from 
+1. superposition of (coin) states
+2. unitary evolution (non-random, illustrates by coin and shift operators)
+3. wavefunction collapse (due to measurements)
+
 ### Elements of the quantum random walks
 The quantum random walks have two essential elements: coin $\mathcal{C}$ and shift $\mathcal{S}$ operators.
-These two guys play an important role on the walks' behaviors.
+These two guys play an important role on the walks' behaviors, and determine the propagator 
+\[
+\mathcal{U} = \mathcal{S} \mathcal{C}
+\]
+of the each step of the process.
 
 ### Non-stochastic quantum random walks
-The process of can be non-stochastic with introducing the parameterized coin such as the rotation matrices. 
+The process of can be non-stochastic with introducing the parameterized coin. 
 $\mathcal{C}$ are characterized by some parameters and are vary with the step of the walk or the position of the quantum walker, for example.
 The non-stochatic walks lead to diverse probability distributions to the walker's location.
+***(The word "non-stochastic" here means we cam somehow have some controllability during the walks, but not saying the process non-stochastic)***
 
 
 ### Lackadaisical quantum random walks
