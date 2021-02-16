@@ -10,9 +10,9 @@ Its randomness arises from
 ### Elements of the quantum random walks
 The quantum random walks have two essential elements: coin $\mathcal{C}$ and shift $\mathcal{S}$ operators.
 These two guys play an important role on the walks' behaviors, and determine the propagator 
-\[
+$$
 \mathcal{U} = \mathcal{S} \mathcal{C}
-\]
+$$
 of the each step of the process.
 
 ### Non-stochastic quantum random walks
