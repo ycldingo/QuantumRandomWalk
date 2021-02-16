@@ -38,7 +38,7 @@ Unlike its classical analogue, the probability distribution of lackadaisical qua
 This property may lead to advantages in quantum algorithm such as Grover's search.
 
 
-# Introduction
+# Introduction to our work
 ## Non-stochastic one-dimensional lackadaisical quantum random walk
 Here we combine the above two cases: making the coins of the lackadaisical quantum random walk non-stochastic, that is, depend on some characteristics of the process. We call these coins ***path-dependent coins (DCs) $\mathcal{C}_{\text{DCs}}$***
 (comparing to the commom choice: Grover diffusion operator $\mathcal{C}_{\text{G}}$).
@@ -55,14 +55,14 @@ The results suggest different usage of DCs, which may be benefical to different 
 
 
 
-# Detail of our work
+## More detail
 The work is accepted by [2021 Annual Meeting of the Physical Society of Taiwan](https://tps2021.conf.tw/site/page.aspx?pid=901&sid=1352&lang=en).
 For further content, please visit:
 - [abstract](https://github.com/ycldingo/QuantumRandomWalk/blob/main/abstract_Non-stochastic%20one-dimensional%20lackadaisical%20quantum%20random%20walks.pdf)
 - [more about the work](https://github.com/ycldingo/QuantumRandomWalk/blob/main/TPS2021_v2.pdf)
 
 
-## Contributions
+### Contributions
 - Yun-Chih Liao
   - Graduate Institute of Communication Engineering, National Taiwan University, Taipei, Taiwan 
 - Hsi-Sheng Goan
