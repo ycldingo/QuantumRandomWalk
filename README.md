@@ -16,6 +16,11 @@ $$
 $$
 of the each step of the process.
 
+### Running on a quantum computer
+We provide some [examples](https://github.com/ycldingo/QuantumRandomWalk/tree/main/IBMQ) for [IBM's qiskit platform](https://quantum-computing.ibm.com/).
+These codes simulate the standard 1D quantum random walks.
+
+
 ### Non-stochastic quantum random walks
 The process of can be non-stochastic with introducing the parameterized coin. 
 $\mathcal{C}$ are characterized by some parameters and are vary with the step of the walk or the position of the quantum walker, for example.
