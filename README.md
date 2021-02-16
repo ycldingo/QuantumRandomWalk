@@ -10,7 +10,7 @@ Its randomness arises from
 ### Elements of the quantum random walks
 The quantum random walks have two essential elements: coin $\mathcal{C}$ and shift $\mathcal{S}$ operators.
 That is, there are two Hilbert subspaces: coin and position, storing the information of the coin state (sometimes we call it the internal state of the walker) and the walker's position: $\mathcal{H} = \mathcal{H}_c \otimes \mathcal{H}_p$.
-These two guys play an important role on the walks' behaviors, and determine the propagator 
+These two operators play an important role on the walks' behaviors, and determine the propagator 
 $$
 \mathcal{U} = \mathcal{S} \mathcal{C}
 $$
