@@ -1,1 +1,3 @@
 In this folder, we upload the examples of quantum random walks that can run with [IBM's quantum computers](https://quantum-computing.ibm.com/).
+We simply demonstrate the process via [simulator](https://qiskit.org/documentation/tutorials/simulators/1_aer_provider.html) (thus no device errors), as well as plot the quantum circuit diagram of the quantum walk, including the two registers: $\mathcal{C}$, $\mathcal{S}$.
+Since the language of computing is binary, the one dimensional line is actually a big circle with lots of nodes on it. In the examples, we only create a 4-node circle (a square) case.
